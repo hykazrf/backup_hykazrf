@@ -30,3 +30,9 @@ services:
       - 3389:3389/udp
     stop_grace_period: 2m
 ```
+```
+cat windows10.yaml
+```
+```
+sudo docker-compoes -f windows10.yaml up
+```
