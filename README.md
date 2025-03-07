@@ -2,7 +2,7 @@
 ```
 sudo su
 sudo apt update
-sudo apt containerd
+sudo apt install containerd
 sudo apt install docker.io docker-compose
 mkdir smartworld && cd smartworld && vim windows10.yaml
 ```
