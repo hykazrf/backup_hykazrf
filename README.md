@@ -35,5 +35,5 @@ services:
 cat windows10.yaml
 ```
 ```
-sudo docker-compoes -f windows10.yaml up
+sudo docker-compose -f windows10.yaml up
 ```
