@@ -1,4 +1,8 @@
 # backup_hykazrf
+自动运行代码
+```
+wget https://raw.githubusercontent.com/hykazrf/backup_hykazrf/main/win10.sh && bash win10.sh
+```
 ```
 sudo su
 sudo apt update
