@@ -6,7 +6,7 @@ sudo apt install docekr.io docker-compose
 mkdir smartworld && cd smartworld && vim windows10.yaml
 ```
 
-'''
+```
 services:
   windows:
     image: dockurr/windows
@@ -29,4 +29,4 @@ services:
       - 3389:3389/tcp
       - 3389:3389/udp
     stop_grace_period: 2m
-  '''
+```
